@@ -1,4 +1,8 @@
+body {
+    background-color: thistle;
+}
+
 button {
     background-color: lightsalmon;
-    color: whitesmoke;
+    color: black;
 }
